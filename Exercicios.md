@@ -1,1 +1,0 @@
-[[trybe/trybe-exercicios/README]]
